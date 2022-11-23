@@ -35,10 +35,11 @@ body {
     justify-content: space-between;
 }
 
-.logo{
+.logo {
     height: 60px;
     padding: 10px;
     padding-bottom: 2px;
+    list-style: none;
 }
 
 .nav-links{
@@ -64,6 +65,7 @@ body {
 }
 /*final del navbar*/
 
+/*inicio de formulario*/
 form {
     background-color: #fff;
     width: 100%;
@@ -116,3 +118,4 @@ form {
 h2{
     color: #B40808;
 }
+/*fin de formulario*/
